@@ -17,10 +17,7 @@ html {
 body {
   font-family: 'Manrope', sans-serif;
   text-align: center;
-  /* max-width: 100vw;
-  max-height: 100vh; */
   background-color: #e9ecef;
-  /* justify-content: center; */
 }
 
 .navbar .navbar-brand {
